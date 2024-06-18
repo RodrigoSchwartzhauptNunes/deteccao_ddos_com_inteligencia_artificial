@@ -1,4 +1,4 @@
-# Trabalho de TTC - Detecção de Ataques DDoS com machine learning em Python
+# Trabalho de TCC - Detecção de Ataques DDoS com machine learning em Python
 Este é meu trabalho de conclusão de curso de gradução em redes de computadores no IFC.
 
 Nele utilizei o pouco conhecimento que tenho em Python junto com 2 cursos de AI que fiz para entender mais sobre machine learning.
